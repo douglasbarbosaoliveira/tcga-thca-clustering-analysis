@@ -188,7 +188,7 @@ Acessados através da plataforma [UCSC Xena](https://xenabrowser.net) — coorte
 ```
 📦 tcga-thca-clustering-analysis
  ┣ 📓 AnalisisCancerTireoidesTCGATHCA.ipynb   ← Reporte interactivo / Interactive report / Relatório interativo
- ┣ 📄 AnalisisCancerTireoidesTCGATHCA.html    ← Versión estática / Static version / Versão estática
+ ┣ 📄 index.html    ← Versión estática / Static version / Versão estática
  ┣ 📄 README.md
  ┗ 📁 images/
     ┣ 🖼️ cancertireoides.jpg
