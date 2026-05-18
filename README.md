@@ -1,4 +1,4 @@
-# 🧬 Análisis de Subtipos Moleculares en Cáncer de Tiroides (THCA)
+# Análisis de Subtipos Moleculares en Cáncer de Tiroides (THCA)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" alt="Python"/>
