@@ -15,7 +15,7 @@
 </p>
 
 
-> 📋 **El reporte completo está escrito en español / The full report is written in Spanish / O relatório completo está escrito em espanhol.**
+📋 **El reporte completo está escrito en español / The full report is written in Spanish / O relatório completo está escrito em espanhol.**
 
 ---
 
@@ -108,6 +108,12 @@ Accedidos a través de [UCSC Xena](https://xenabrowser.net) — cohort **GDC TCG
 
 This project applies **unsupervised learning** techniques to gene expression data from the **TCGA-THCA** (Thyroid Cancer) cohort to identify molecular subgroups of patients and explore their relationship with relevant clinical variables.
 
+<p align="center">
+  <img src="images/cancertireoides.jpg" width="380" alt="Cáncer de tiroides papilar y folicular"/>
+  <br/>
+  <em>Thyroid gland with papillary and follicular cancer in stage I — Terese Winslow LLC / NCI</em>
+</p>
+
 ### Data
 
 Accessed through [UCSC Xena](https://xenabrowser.net) — **GDC TCGA Thyroid Cancer (THCA)** cohort:
@@ -149,6 +155,12 @@ Accessed through [UCSC Xena](https://xenabrowser.net) — **GDC TCGA Thyroid Can
 ### Descrição
 
 Este projeto aplica técnicas de **aprendizado não supervisionado** sobre dados de expressão gênica do coorte **TCGA-THCA** para identificar subgrupos moleculares de pacientes e explorar sua relação com variáveis clínicas relevantes.
+
+<p align="center">
+  <img src="images/cancertireoides.jpg" width="380" alt="Cáncer de tiroides papilar y folicular"/>
+  <br/>
+  <em>Glândula tireoide com câncer papilar e folicular em estágio I — Terese Winslow LLC / NCI</em>
+</p>
 
 ### Dados
 
